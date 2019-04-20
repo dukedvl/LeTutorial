@@ -151,11 +151,11 @@ int main()
 
 // Uncomment each one below for an example
 
-ForLoopExample();
+//ForLoopExample();
 
-WhileLoopExample();
+//WhileLoopExample();
 
-DoWhileLoopExample();
+//DoWhileLoopExample();
 
 
 
