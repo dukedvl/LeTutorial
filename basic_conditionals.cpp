@@ -39,3 +39,22 @@ cin.get();
 
 return EXIT_SUCCESS;
 }
+
+
+/*
+
+conditional logic
+
+Equal To 		==   
+NOT equal to  		!=
+Less than   		<
+Less than or equal to   <=
+Greater than		>
+Great than or equal	>=
+
+
+
+
+
+
+*/
